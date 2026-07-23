@@ -15,4 +15,9 @@ Khi người dùng muốn chuyển đổi transcript thành tài liệu Markdown
    - Hộp lưu ý/cảnh báo
    - Code blocks (nếu có đoạn mã)
 4. Lưu kết quả ra file `.md` trong thư mục có tên theo định dạng ngày hiện tại `dd-MM-yyyy` (ví dụ: `23-07-2026/tai_lieu_markdown_<ten_video>.md`).
-5. Trả lời người dùng kèm link của file đó.
+5. **BẮT BUỘC:** Thêm phần nguồn ở cuối tệp dưới dạng:
+   ```markdown
+   ## 🔗 Nguồn
+   - Link video: <link_video_youtube_da_nhap>
+   ```
+6. Trả lời người dùng kèm link của file đó.

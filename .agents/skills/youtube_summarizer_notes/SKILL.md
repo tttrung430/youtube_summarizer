@@ -15,4 +15,9 @@ Khi người dùng yêu cầu tóm tắt video dưới dạng ghi chú (Notes), 
    - Không bỏ sót ý chính
    - Có phần "Key Takeaways" ở cuối
 3. Lưu kết quả ra file `.md` trong thư mục có tên theo định dạng ngày hiện tại `dd-MM-yyyy` (ví dụ: `23-07-2026/ghi_chu_<ten_video>.md`).
-4. Trả lời người dùng kèm link của file đó.
+4. **BẮT BUỘC:** Thêm phần nguồn ở cuối tệp dưới dạng:
+   ```markdown
+   ## 🔗 Nguồn
+   - Link video: <link_video_youtube_da_nhap>
+   ```
+5. Trả lời người dùng kèm link của file đó.

@@ -18,4 +18,9 @@ Khi người dùng yêu cầu phân tích sâu một video, hãy thực hiện:
    - **Phương án áp dụng vào thực tế**
    - Chỉ ra các thông tin chưa chính xác hoặc đã lỗi thời (nếu có).
 3. Lưu kết quả ra file `.md` trong thư mục có tên theo định dạng ngày hiện tại `dd-MM-yyyy` (ví dụ: `23-07-2026/phan_tich_sau_<ten_video>.md`).
-4. Trả lời người dùng kèm link của file đó.
+4. **BẮT BUỘC:** Thêm phần nguồn ở cuối tệp dưới dạng:
+   ```markdown
+   ## 🔗 Nguồn
+   - Link video: <link_video_youtube_da_nhap>
+   ```
+5. Trả lời người dùng kèm link của file đó.

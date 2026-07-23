@@ -28,4 +28,9 @@ Khi người dùng cung cấp một đường dẫn video YouTube (chứa `youtu
 
 5. **Lưu trữ kết quả:**
    - Tạo một tệp Markdown trong thư mục workspace với tên tệp chuẩn hóa từ tiêu đề video (ví dụ: `tom_tat_the_math_of_winning.md`).
+   - **BẮT BUỘC:** Thêm phần nguồn ở cuối tệp dưới dạng:
+     ```markdown
+     ## 🔗 Nguồn
+     - Link video: <link_video_youtube_da_nhap>
+     ```
    - Trả lời người dùng kèm liên kết dẫn đến tệp đã tạo.

@@ -18,4 +18,9 @@ Khi người dùng muốn tạo ghi chú theo phong cách Obsidian/Second Brain,
    - **Related Topics** (Các chủ đề liên quan để liên kết ghi chú)
    - **Tags** (Nhãn dạng `#tag-name`)
 3. Lưu kết quả ra file `.md` trong thư mục có tên theo định dạng ngày hiện tại `dd-MM-yyyy` (ví dụ: `23-07-2026/second_brain_<ten_video>.md`).
-4. Trả lời người dùng kèm link của file đó.
+4. **BẮT BUỘC:** Thêm phần nguồn ở cuối tệp dưới dạng:
+   ```markdown
+   ## 🔗 Nguồn
+   - Link video: <link_video_youtube_da_nhap>
+   ```
+5. Trả lời người dùng kèm link của file đó.
